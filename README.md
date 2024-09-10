@@ -2,6 +2,8 @@
 
 Este projeto é um estudo sobre como implementar autenticação JWT (JSON Web Token) e salvar o token em cookies utilizando Next.js com React. O objetivo principal é entender como funciona o fluxo de autenticação, gerenciamento de sessões e proteção de rotas em uma aplicação moderna.A autenticação JWT neste projeto usa a API reqres.in. Quando o usuário faz login, o token JWT é gerado e retornado pela API. Este token é armazenado em um cookie no navegador, permitindo o gerenciamento de sessões seguras.
 
+https://github.com/user-attachments/assets/d2cb5aae-a233-41cc-9290-7df63f7e9035
+
 ### Tecnologias Utilizadas
 
 - React: ^18.3.1
